@@ -19,3 +19,7 @@ td, th {
     white-space: nowrap;
     height: 60px;
 }
+
+.col-lg-12.search-user {
+    width: 40%;
+}
